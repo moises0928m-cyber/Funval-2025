@@ -1,9 +1,9 @@
 body { background-color: black } 
 .pepe { color: wheat }
 #titulo { background-color: rgba(0, 255, 255, 0.5);  width: 100px; } 
-.Yo { color: wheat;}
+.Yo { color: wheat; font-size: 25px;}
 p { color: white; }
 ul { background-color: rgba(245, 222, 179, 0.568); width: 100px; }
-a { color: aqua;  font-size: 25px;}
+a { color: aqua; }
 h3 { color: aqua; } 
  
